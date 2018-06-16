@@ -249,6 +249,11 @@ LICENSE file.
       <artifactId>tarantool-binding</artifactId>
       <version>${project.version}</version>
     </dependency>
+    <dependency>
+      <groupId>com.yahoo.ycsb</groupId>
+      <artifactId>hashmap-binding</artifactId>
+      <version>${project.version}</version>
+    </dependency>
 <!--
     <dependency>
       <groupId>com.yahoo.ycsb</groupId>
